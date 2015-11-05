@@ -91,5 +91,4 @@ function playToFive() {
   /* YOUR CODE HERE */
   return [playerWins, computerWins];
 };
-
-git push origin student
+git push origin master
